@@ -55,7 +55,9 @@ En Markdown tambien se pueden poner imágenes:
 ![Imagen Tristana](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_10.jpg 'Imagen de Tristana')
 
 También podemos crear tablas:
+
 | Personaje | Posicion | Pasiva      |
 |-----------|----------|-------------|
 | Tristana  | ADC      | Rango largo |
-| Annie     | 
+| Annie     | Mid      | Stun        |
+| Garen     | Top      | Ganar vida  |

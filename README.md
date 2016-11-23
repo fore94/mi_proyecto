@@ -72,6 +72,6 @@ Se pueden poner citas:
 
 Markdown te permite crear líneas de chequeo:
 
-- [] Patatas.
+- [ ] Patatas.
 - [X] Limones.
-- [] Melones.
+- [ ] Melones.

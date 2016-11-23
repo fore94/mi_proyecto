@@ -61,3 +61,17 @@ También podemos crear tablas:
 | Tristana  | ADC      | Rango largo |
 | Annie     | Mid      | Stun        |
 | Garen     | Top      | Ganar vida  |
+
+También te permite <i>usar <b>código</b> HTML</i>.
+
+Se pueden poner citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero...
+
+---
+
+Markdown te permite crear líneas de chequeo:
+
+- [] Patatas.
+- [X] Limones.
+- [] Melones.

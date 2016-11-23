@@ -25,3 +25,28 @@ También en Markdown puedes poner código en cualquier lenguaje:
 </html>
 ```
 Además puedes poner código en una misma línea: `git commint -m "corregido fallo 6581"`.
+
+Markdown dispone de listas ordenadas:
+
+1. Tristana
+2. Ashe
+3. Sivir
+
+Y de listas no ordenadas:
+
+* xPeke
+* Faker
+* Niels
+
+Tambien es posible crear listas anidadas:
+
+1. Tristana
+    * ADC
+    * Poco rango inicial
+        * Mucho rango inicial
+2. Ashe
+    1. ADC
+    2. Poco movilidad
+
+
+MArkdown permite poner [enlaces a una pagina web](https://github.com/fore94), incluso sólo poniendo la URL: http://google.com.

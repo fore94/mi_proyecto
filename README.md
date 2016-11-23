@@ -51,4 +51,5 @@ Tambien es posible crear listas anidadas:
 
 MArkdown permite poner [enlaces a una pagina web](https://github.com/fore94), incluso sólo poniendo la URL: http://google.com.
 
-
+En Markdown tambien se pueden poner imágenes:
+![Imagen Tristana](http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_10.jpg 'Imagen de Tristana')
